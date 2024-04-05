@@ -1,0 +1,165 @@
+||www.google-analytics.com/analytics.js$important
+
+! 5/31/2018, 12:21:28 PM https://www.google.com/
+www.google.com##.gb_g.gb_0c.gb_Ad
+
+! 31.05.2018 13:14:35 http://www.koreanturk.com/
+||www.koreanturk.com/58e4de40e812ea702384007c9bcbeea762d3152b2325/58e4de40e812ea702384007c9bcbeea762d3152b2325.html$subdocument
+
+! 9/7/2018, 11:30:01 PM http://www.koreanturk.com/
+||www.koreanturk.com/resimklasoru/960x250-trmodanisa.jpg$image
+
+! 9/7/2018, 11:31:35 PM http://www.koreanturk.com/
+www.koreanturk.com##.col-md-4 > p:nth-of-type(1)
+
+! 9/11/2018, 3:06:52 AM http://www.koreanturk.com/hot-and-sweet-1-bolum-izle.html
+||www.koreanturk.com/resimklasoru/590x250-tr2684modanisa.png$image
+
+! 06.01.2019 22:33:06 https://forum.donanimhaber.com/forumid_193/tt.htm
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(4)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(5)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(6)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(7)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(8)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(9)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(10)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(11)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(12)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(13)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(14)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(15)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(16)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(17)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(18)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(19)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(20)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(21)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(22)
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(23)
+
+! 09.01.2019 14:44:47 https://forum.donanimhaber.com/forumid_193/tt.htm
+forum.donanimhaber.com##div.sabit-konu.yenikonu.kl-icerik-satir:nth-of-type(24)
+
+! 24.01.2019 13:54:30 https://forum.donanimhaber.com/forumid_193/tt.htm
+forum.donanimhaber.com##div.yenikonu.kl-icerik-satir:nth-of-type(21)
+
+! 24.01.2019 13:54:54 https://forum.donanimhaber.com/forumid_193/tt.htm
+forum.donanimhaber.com##div.yenikonu.kl-icerik-satir:nth-of-type(23)
+
+! 25.05.2019 https://www.filmmodu.org
+||www.filmmodu.com/images/sleft.png$image
+||www.filmmodu.com/images/sright.png$image
+www.filmmodu.com##.lsb
+www.filmmodu.com##.rsb
+
+! 13.07.2019 https://dizilla.net
+||720p-izle.com/images/makrolarge.gif$image
+||720p-izle.com/images/peralarge.gif$image
+||chaicdn.com/b/1.gif$image
+||chaicdn.com/$image
+||chaicdn.com/b/1.gif$image
+
+
+! 12/13/2019 koreanturk.com
+||bet.dinamoo.com^$popup,important
+
+! 12/15/2019 https://www.koreanturk.com
+||adwitch.com/Adview-5df4069fb8aa2$subdocument
+www.koreanturk.com##.panel-warning.panel-alt.panel > center
+
+! 1/30/2020 https://www.koreanturk.com
+www.koreanturk.com##[href^="http://z.cdn.ftd.agency/go"]
+www.koreanturk.com##.d63373 > div
+www.koreanturk.com##.d63373
+
+0.0.0.0 www.weathercn.com
+
+||src.litix.io/core/*/mux.js$script,redirect=noopjs,domain=kanald.com.tr
+@@||gatr.hit.gemius.pl/gplayer.js$script,domain=kanald.com.tr
+
+! 2020-10-05 https://forum.miuitr.info
+forum.miuitr.info##.v5f7abfc78c941580511683.n5f7abfc78c939959386880
+forum.miuitr.info##.q5f7ac01a50131464011896.q5f7ac01a50105317657593
+
+! 2020-11-30 https://www.ensonhaber.com
+www.ensonhaber.com##.wpcc-color-custom--943834009.wpcc-bottom.wpcc-border-thin.wpcc-corners-small.wpcc-corners-round.wpcc-banner.wpcc-container
+
+! 2021-01-04 https://onlinedizi.tv
+||onlinedizi.tv/images/bettlyn.gif$image
+
+! 2021-03-06 https://forum.donanimhaber.com
+forum.donanimhaber.com##.cookie-kutu
+
+! 2021-03-06 https://urun.n11.com
+urun.n11.com##.generalAnnounce.popin
+
+! 2021-03-08 https://onlinedizi.tv
+onlinedizi.tv##.header-container.container
+
+! 2021-03-21 https://onlinedizi.tv
+||onlinedizi.tv^$popup,1p
+||koredizileri.tv^$popup,domain=onlinedizi.tv
+
+! 2021-03-31 https://bestdizi.com
+||bestdizi.com/wp-content/uploads/2021/03/ons-728x90new.gif$image
+
+! 2021-04-06 https://www.ecanlitvizle.live
+www.ecanlitvizle.live##.adbd-filter
+www.ecanlitvizle.live##.stack.adbd-popup
+
+! 2021-09-07 https://onlinedizi.tv
+||onlinedizi.tv/images/ps/right-block.jpg$image
+||onlinedizi.tv/images/ps/left-block.jpg$image
+||onlinedizi.tv/images/ps/top-block.jpg$image
+
+! 2021-12-25 https://forum.miuitr.info
+forum.miuitr.info##.f61c71c8b95f4b076432421
+forum.miuitr.info##.h61c71c8b95f46095606255.u61c71c8b95ed6247769234
+forum.miuitr.info##.m61c71ce846f09952864725.p61c71ce846d76396193644
+
+! 2021-12-29 https://www.koreanturk.com
+||www.koreanturk.com/resimklasoru/bsiteleri.gif$image
+||www.koreanturk.com/resimklasoru/oPDFYq.gif$image
+
+! 2021-12-31 https://forum.donanimhaber.com
+||socket.donanimhaber.com^$websocket,important
+
+*$websocket,domain=donanimhaber.com
+
+! 2022-02-26 https://www.koreanturk.com
+||www.koreanturk.com/resimklasoru/cloudminekt.png$image
+
+||idfl.*/assets/js/adst.js$script,~third-party
+
+! 2022-09-06 https://www.turkanime.co
+||www.turkanime.co/imajlar/aff/wot_battle2.jpg$image
+||www.turkanime.co/imajlar/aff/wot_battle2.jpg$image
+
+! 2022-09-19 https://www.turkanime.co
+||anisage.com/play/turkanime_animemmorpg_2022_playforfree2.png$image
+||anisage.com/play/turkanime_animemmorpg_2022_playforfree3.png$image
+
+! 2022-10-19 https://www.turkanime.co
+||anisage.com/play/turkanime_animemmorpg_2022_playforfree2.png$image
+
+! 2024-03-08 https://www.mgeko.com
+www.mgeko.com###radio_content
+
+! 2024-03-09 https://rizzcomic.com
+rizzcomic.com###radio_content
+
+! 2024-03-11 https://flixscans.net
+flixscans.net##.adblock
+
+! 2024-03-19 https://www.reddit.com
+www.reddit.com###credential_picker_container
+
+! 2024-03-23 https://flamecomics.com
+flamecomics.com###radio_content
+
+! 2024-03-24 https://night-scans.com
+night-scans.com###radio_content
+
+! 2024-04-02 https://nirvanamanga.com
+nirvanamanga.com###floatcenter
+
